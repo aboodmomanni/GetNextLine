@@ -1,4 +1,4 @@
-# get_next_line
+# 📖 get_next_line
 
 A C function that reads a file line by line, returning one line at a time from a given file descriptor.
 
